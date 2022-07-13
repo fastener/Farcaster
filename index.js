@@ -76,6 +76,7 @@ if (expectedUsername !== castUsername) {
 } else {
   console.log(`PASSED: ${expectedAddress} owns ${castUsername}`);
 }  
-}
+}  
+
 doStuff();
 
